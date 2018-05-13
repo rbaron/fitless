@@ -1,0 +1,3 @@
+[submodule "ext_libs/Adafruit-GFX-Library"]
+	path = ext_libs/Adafruit-GFX-Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
