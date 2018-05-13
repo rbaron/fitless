@@ -1,6 +1,6 @@
 # fitless
 
-Series of example programs to run on the ID115 fitness tracker.
+Series of example programs to run on the ID115 fitness tracker. Most examples are based on the ones from the official SDK (version 12), but have been adapted to run on this specific device.
 
 ## Running an example
 
