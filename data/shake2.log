@@ -1,0 +1,27 @@
+logging to stdout...
+echo "\n\n\n\n0\n/dev/stdout" | jlinkrttlogger
+SEGGER J-Link RTT Logger
+Compiled Dec 14 2017 18:33:59
+(c) 2016-2017 SEGGER Microcontroller GmbH & Co. KG, www.segger.com
+         Solutions for real time microcontroller applications
+
+------------------------------------------------------------ 
+
+Device name. Default: NRF51822_XXAA Target interface. Interface speed [kHz]. Default: 4000 kHz RTT Control Block address. Default: auto-detection RTT Channel name or index. Default: channel 1 Output file. Default: RTT_<ChannelName>_<Time>.log 
+------------------------------------------------------------ 
+Connected to:
+  SEGGER J-Link ARM
+  S/N: 20171218
+
+Searching for RTT Control Block...OK. 2 up-channels found.
+RTT Channel description: 
+  Index: 0
+  Name:  Terminal
+  Size:  1024 bytes.
+
+Output file: /dev/stdout
+
+Getting RTT data from target. Press any key to quit.
+------------------------------------------------------------ 
+
+Transfer rate: 0 KByte/s Bytes written: 0 Byte   Transfer rate: 0 KByte/s Bytes written: 0 Byte   Transfer rate: 0 KByte/s Bytes written: 0 Byte   Transfer rate: 0 KByte/s Bytes written: 0 Byte   Transfer rate: 0 KByte/s Bytes written: 0 Byte   Transfer rate: 0 KByte/s Bytes written: 0 Byte   
