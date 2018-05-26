@@ -19,7 +19,7 @@ def read_input(filename):
 
 
 def main():
-    timeseries_by_pin = read_input('discharging.log')
+    timeseries_by_pin = read_input('charging.log')
     for pin, values in timeseries_by_pin.items():
         if int(pin) in [5]:
             xs = [i*10 for i in range(len(values))]
